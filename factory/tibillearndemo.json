@@ -1,0 +1,15 @@
+{
+	"name": "tibillearndemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52ea14f0-743f-4c93-9880-d6216b96978f",
+		"tenantId": "0db99620-a5ed-47f2-b407-d2c4e0da1f72"
+	}
+}
